@@ -1,0 +1,11 @@
+D:\Projects\TOFAdmin\Presenter\obj\Debug\Presenter.csprojAssemblyReference.cache
+D:\Projects\TOFAdmin\Presenter\obj\Debug\Presenter.csproj.CoreCompileInputs.cache
+D:\Projects\TOFAdmin\Presenter\bin\Debug\Presenter.dll
+D:\Projects\TOFAdmin\Presenter\bin\Debug\Presenter.pdb
+D:\Projects\TOFAdmin\Presenter\bin\Debug\Model.dll
+D:\Projects\TOFAdmin\Presenter\bin\Debug\FluentFTP.dll
+D:\Projects\TOFAdmin\Presenter\bin\Debug\Model.pdb
+D:\Projects\TOFAdmin\Presenter\bin\Debug\FluentFTP.xml
+D:\Projects\TOFAdmin\Presenter\obj\Debug\Presenter.csproj.CopyComplete
+D:\Projects\TOFAdmin\Presenter\obj\Debug\Presenter.dll
+D:\Projects\TOFAdmin\Presenter\obj\Debug\Presenter.pdb

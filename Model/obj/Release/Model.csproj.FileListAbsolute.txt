@@ -1,0 +1,8 @@
+D:\Projects\TOFAdmin\Model\bin\Release\Model.dll
+D:\Projects\TOFAdmin\Model\bin\Release\Model.pdb
+D:\Projects\TOFAdmin\Model\bin\Release\FluentFTP.dll
+D:\Projects\TOFAdmin\Model\bin\Release\FluentFTP.xml
+D:\Projects\TOFAdmin\Model\obj\Release\Model.csproj.CoreCompileInputs.cache
+D:\Projects\TOFAdmin\Model\obj\Release\Model.csproj.CopyComplete
+D:\Projects\TOFAdmin\Model\obj\Release\Model.dll
+D:\Projects\TOFAdmin\Model\obj\Release\Model.pdb
