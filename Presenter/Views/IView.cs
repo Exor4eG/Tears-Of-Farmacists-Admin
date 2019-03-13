@@ -1,4 +1,4 @@
-﻿namespace Presenter
+﻿namespace Presenter.Views
 {
     public interface IView
     {
