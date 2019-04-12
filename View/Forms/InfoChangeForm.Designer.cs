@@ -50,15 +50,17 @@
             this.tableLayoutPanel1.Size = new System.Drawing.Size(482, 253);
             this.tableLayoutPanel1.TabIndex = 0;
             // 
-            // textBox1
+            // TB_Info
             // 
+            this.TB_Info.AcceptsReturn = true;
             this.TB_Info.Dock = System.Windows.Forms.DockStyle.Fill;
             this.TB_Info.Location = new System.Drawing.Point(10, 10);
             this.TB_Info.Margin = new System.Windows.Forms.Padding(10);
             this.TB_Info.Multiline = true;
-            this.TB_Info.Name = "textBox1";
+            this.TB_Info.Name = "TB_Info";
+            this.TB_Info.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
             this.TB_Info.Size = new System.Drawing.Size(462, 163);
-            this.TB_Info.TabIndex = 0;
+            this.TB_Info.TabIndex = 1;
             this.TB_Info.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // B_Change
@@ -69,7 +71,7 @@
             this.B_Change.Margin = new System.Windows.Forms.Padding(100, 10, 100, 10);
             this.B_Change.Name = "B_Change";
             this.B_Change.Size = new System.Drawing.Size(282, 40);
-            this.B_Change.TabIndex = 1;
+            this.B_Change.TabIndex = 2;
             this.B_Change.Text = "Изменить";
             this.B_Change.UseVisualStyleBackColor = true;
             this.B_Change.Click += new System.EventHandler(this.B_Change_Click);

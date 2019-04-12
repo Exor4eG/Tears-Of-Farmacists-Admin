@@ -88,8 +88,9 @@ namespace Model
                 }
                 return true;
             }
-            catch
+            catch (Exception ex)
             {
+                string a = ex.Message;
                 return false;
             }
         }

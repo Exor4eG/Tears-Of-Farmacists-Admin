@@ -9,3 +9,14 @@ D:\Projects\TOFAdmin\Presenter\obj\Release\Presenter.csproj.CoreCompileInputs.ca
 D:\Projects\TOFAdmin\Presenter\obj\Release\Presenter.csproj.CopyComplete
 D:\Projects\TOFAdmin\Presenter\obj\Release\Presenter.dll
 D:\Projects\TOFAdmin\Presenter\obj\Release\Presenter.pdb
+D:\Projects\Tears-Of-Farmacists-Admin\Presenter\bin\Release\Presenter.dll
+D:\Projects\Tears-Of-Farmacists-Admin\Presenter\bin\Release\Presenter.pdb
+D:\Projects\Tears-Of-Farmacists-Admin\Presenter\bin\Release\Model.dll
+D:\Projects\Tears-Of-Farmacists-Admin\Presenter\bin\Release\FluentFTP.dll
+D:\Projects\Tears-Of-Farmacists-Admin\Presenter\bin\Release\Model.pdb
+D:\Projects\Tears-Of-Farmacists-Admin\Presenter\bin\Release\FluentFTP.xml
+D:\Projects\Tears-Of-Farmacists-Admin\Presenter\obj\Release\Presenter.csprojAssemblyReference.cache
+D:\Projects\Tears-Of-Farmacists-Admin\Presenter\obj\Release\Presenter.csproj.CoreCompileInputs.cache
+D:\Projects\Tears-Of-Farmacists-Admin\Presenter\obj\Release\Presenter.csproj.CopyComplete
+D:\Projects\Tears-Of-Farmacists-Admin\Presenter\obj\Release\Presenter.dll
+D:\Projects\Tears-Of-Farmacists-Admin\Presenter\obj\Release\Presenter.pdb

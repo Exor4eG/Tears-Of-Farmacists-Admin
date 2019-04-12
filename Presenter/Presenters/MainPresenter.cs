@@ -238,7 +238,7 @@ namespace Presenter.Presenters
                 }
             }
             res.info = data.testData.Info;
-            res.totalQCount = data.testData.Subjects.Sum(x => x.Questions.Count);
+            res.totalQCount = data.testData.Subjects.Sum(x => x.QCount);
             return res;
         }
     }
