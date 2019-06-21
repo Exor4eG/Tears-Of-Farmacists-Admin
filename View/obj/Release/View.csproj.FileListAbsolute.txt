@@ -34,3 +34,4 @@ D:\Projects\Tears-Of-Farmacists-Admin\View\obj\Release\View.csproj.CoreCompileIn
 D:\Projects\Tears-Of-Farmacists-Admin\View\obj\Release\View.csproj.CopyComplete
 D:\Projects\Tears-Of-Farmacists-Admin\View\obj\Release\View.exe
 D:\Projects\Tears-Of-Farmacists-Admin\View\obj\Release\View.pdb
+D:\Projects\Tears-Of-Farmacists-Admin\View\obj\Release\View.Forms.InfoChangeForm.resources
